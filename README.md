@@ -1,43 +1,43 @@
 
 
 
-# Progress - 12-09-26
+# 12-09-26 Progress
 
 
-## New greatsword weapon rest position
+ New greatsword weapon rest position
 ![Backpack after loot drops](images/12-09-26/Skjermbilde%202026-09-12%20135331.png)
 
-[Made new rigs and attack state for all weapons.]
+Made new rigs and attack state for all weapons.
 
 ![Backpack after loot drops (2)](images/12-09-26/Skjermbilde%202026-09-12%20135351.png)
 
-[New staff attack state.]
+New staff attack state.
 
 
 
 ![Byrne and Katla near the gate](images/12-09-26/Skjermbilde%202026-09-12%20135405.png)
 
-[Dualwield attack animation state.]
+Dualwield attack animation state.
 
 ![Editor debug view](images/12-09-26/Skjermbilde%202026-09-12%20135410.png)
 
-[sword and shield.]
+sword and shield.
 
 ## Character Viewer
 
 ![Character tab - Viewer](images/12-09-26/Skjermbilde%202026-09-12%20135426.png)
 
-[Made improvements on the character viewer where the character is rendered as a sketch on the right side of the book..]
+Made improvements on the character viewer where the character is rendered as a sketch on the right side of the book..
 
 ## Quest Dialogue
 
 ![Katla's quest dialogue](images/12-09-26/Skjermbilde%202026-09-12%20135549.png)
 
-[Also made the npc dialogue book have rendered sketches.]
+Also made the npc dialogue book have rendered sketches.
 
 ![Backpack after loot drops](images/12-09-26/Skjermbilde%202026-09-12%20140319.png)
 
-I really like the drawing of the city guard armor..]
+I really like the drawing of the city guard armor..
 
 # 11-09-26 UI Improvements
 
