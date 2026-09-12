@@ -2,8 +2,8 @@
 
 
 # 12-09-26 Progress
-ity guard marmor, i like it alot, funny to make stuff with simple shapes for a capsule that still can look like protection in a humanishy way.
-C
+City guard armor, i like it alot, funny to make stuff with simple shapes for a capsule that still can look like protection in a humanishy way.
+
 
 ![city_guard_gif](images/12-09-26/city_guard_gif.gif)
 
