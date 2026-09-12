@@ -3,7 +3,6 @@
 
 # Progress - 12-09-26
 
-[Write a short summary of what this update covers.]
 
 ## New greatsword weapon rest position
 ![Backpack after loot drops](images/12-09-26/Skjermbilde%202026-09-12%20135331.png)
