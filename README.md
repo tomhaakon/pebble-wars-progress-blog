@@ -1,9 +1,15 @@
 
 
 # 15-09-26 Mushrom Man
-Evil creature you need to kill. Trying to be simple as possible 
+Evil creature you need to kill, dont know what to call this monsters yet, was thinking of "Mushroom folk".. Trying to be simple as possible 
 
-![city_guard_gif](images/15-09-26/mushrom_man.gif)
+![mushrom_man_gif](images/15-09-26/mushrom_man.gif)
+Here is a spider, i like it alot
+
+
+![spider_gif](images/15-09-26/spider.gif)
+
+
 # 12-09-26 Progress
 City guard armor, i like it alot, funny to make stuff with simple shapes for a capsule that still can look like protection in a humanishy way.
 
